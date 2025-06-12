@@ -31,7 +31,8 @@ Instead of going into the slow water, wall jump, then jump along trees to preser
 
 Issues: VERY HARD. If someone ever gets this 3/3 Zaqua will probably cry tears of joy, and Calcaire will enter eternal depression
 
-
+### Ashe Line
+likely a strategy to combine with 2 other skips, where after taking a shortcut, you hop onto the left wall, and then the left railing to skip the left side of the turn, unsure if this is faster * and is hard to combine after the other skips.
 
 
 ### Shrine Skip [OUTDATED MAYBE]
