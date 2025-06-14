@@ -30,5 +30,8 @@ There is one document for all tech, and one for each tech that goes into more de
 ## Resources:
 This folder contains resources like character/vehicle stats.
 
+## Media:
+All images/gifs shown in the documents.
+
 ---
 ## NOTE: This project is not associated with or endorsed by Nintendo in any way, shape or form.
