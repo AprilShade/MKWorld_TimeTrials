@@ -31,6 +31,8 @@ Instead of going into the slow water, wall jump, then jump along trees to preser
 3. Set up to land on a patch of grass above the normal shroom shortcut.
 4. Drift through the grass and fall back down, facing the ravine exit. Do an air trick to help realign and for a boost.
 
+![Tarzan Skip](/media/CCF/tarzan_skip.gif)
+
 Upsides: Saves a shroom for use in Shrine Skip.
 
 Issues: VERY HARD. If someone ever gets this 3/3 Zaqua will probably cry tears of joy, and Calcaire will enter eternal depression
@@ -46,6 +48,8 @@ Instead of going around the shrine to charge a UMT, cross the temple completely 
 4. Aim towards the left side of the final pillar.
 5. After crossing the off-road, trick on the rock for an extra boost.
 6. (Maybe) Start and release a CJ on the way up the stairs.
+
+![Shrine Skip](/media/CCF/shrine_skip.gif)
 
 Upsides: Gets +1 coin and a trick boost at the end.
 

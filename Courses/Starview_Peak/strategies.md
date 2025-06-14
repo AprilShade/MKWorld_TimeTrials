@@ -14,5 +14,9 @@
 ---
 ## NOT YET CONFIRMED
 
+![Kings Corner](/media/SP/kings_corner.gif)
+
+![Snow Skip](/media/SP/snow_skip.gif)
+
 ---
 ## (CURRENTLY) IMPOSSIBLE
