@@ -17,6 +17,8 @@ At the start of Cheep Cheep Falls, instead of going down the route as normal, pe
 3. Now cut the turn with a left jump, followed by a normal jump in quick succession. 
 4. On lap 1, dodge the off-road to collect the 3 coins and get a faster UMT. On laps 2/3, graze the corner of the off-road to get a tighter drift.
 
+![Kings Turn](/media/CCF/kings_turn.gif)
+
 Upsides: Takes the turn tighter and makes controlling your line at the end a bit easier.
 
 Issues: This trick is HARD and inconsistent. You need a lot of precise and quick inputs to be even slightly faster. Also, you miss out on one coin on the bridge, but this loss is negligible. 
@@ -34,7 +36,7 @@ Instead of going into the slow water, wall jump, then jump along trees to preser
 
 ![Tarzan Skip](/media/CCF/tarzan_skip.gif)
 
-Upsides: Saves a shroom for use in Shrine Skip.
+Upsides: Saves a shroom for use in Shrine Skip, and avoids going into the water.
 
 Issues: VERY HARD. If someone ever gets this 3/3 Zaqua will probably cry tears of joy, and Calcaire will enter eternal depression
 
