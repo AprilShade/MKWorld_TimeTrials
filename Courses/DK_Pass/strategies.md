@@ -30,7 +30,7 @@ Instead of going around the wall and patch of snow, use a Wall Ride chained into
 
 Upsides: Skips going around the turn.
 
-Issues: Slower than using the rail. Unfavorable angle after the Pole Trick.
+Issues: Slower than using the rail. Unfavorable angle upon landing.
 
 ---
 ## CONFIRMED, BUT OBSOLETE
