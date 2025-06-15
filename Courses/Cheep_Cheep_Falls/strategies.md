@@ -26,10 +26,11 @@ Issues: This trick is HARD and inconsistent. You need a lot of precise and quick
 ### Tarzan Skip (by Zaqua)
 Instead of going into the slow water, wall jump, then jump along trees to preserve your speed. Also saves a shroom for Temple Skip.
 
+0. Wall Ride on the waterfall to gain speed, then approach the trees on the left. 
 1. Perform a Wall Jump off the left of the ravine, then navigate to the hanging tree branch.
 2. With precision, Pole Jump between the branches. 
-3. Set up to land on a patch of grass above the normal shroom shortcut.
-4. Drift through the grass and fall back down, facing the ravine exit. Do an air trick to help realign and for a boost.
+3. Set up to land on a yellow barrier above the normal shroom shortcut.
+4. Bounce off the barrier and realign towards the ravine exit. Right air tricks are recommended. 
 
 ![Tarzan Skip](/media/CCF/tarzan_skip.gif)
 
