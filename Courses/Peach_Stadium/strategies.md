@@ -7,6 +7,17 @@
 
 ---
 ## CONFIRMED, NOT YET UTILISED
+### Topperlecut (by Topperlecat)
+Instead of using a shroom to cross the first turn, jump between poles and trees to make it over. 
+
+1. 
+
+Upsides: Saves a shroom for later usage. 
+
+Issues: A bit finicky to pull off. Unfavorable positioning after landing. 
+
+
+
 ### Spiral Skip (by Lokilla)
 Instead of drifting around the turn, ride the white wall from the inside to skip it entirely. 
 
@@ -40,14 +51,6 @@ Issues: Can't really think of any.
 
 ---
 ## NOT YET CONFIRMED
-### Topperlecut (by Topperlecat)
-Instead of using a shroom to cross the first turn, jump between poles and trees to make it over. 
-
-1. 
-
-Upsides: Saves a shroom for later usage. 
-
-Issues: A bit finicky to pull off. Unfavorable positioning after landing. 
 
 ---
 ## (CURRENTLY) IMPOSSIBLE
