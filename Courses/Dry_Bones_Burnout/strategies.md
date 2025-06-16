@@ -8,7 +8,7 @@
 ---
 ## CONFIRMED, NOT YET UTILISED
 ### Ending NISC (by Astra & AprilShade)
-Skip the ending lava pool shroomless by launching onto the nearby wall and tricking over it.
+Skip the ending lava pool shroomless with the use of strategic Wall Riding and Jumping.
 
 **Path 1:** (by Astra)
 
@@ -29,6 +29,19 @@ Issues: Not grinding on the green rail is tricky, and getting an actually faster
 Advantages: Saves a shroom to use elsewhere.
 
 Issues: Harder than the other path, but faster.
+
+**Path 3:** (by AprilShade)
+
+1. On the bottom path near the end, trick onto the wall.
+2. Quickly Wall Jump to the left and Wall Ride on the platform. Timing is key to hit the second wall.
+3. Ride off the wall without jumping, and start spamming Left Air Tricks. Try to hit it early to be able to cross the lava lake.
+4. Wall Jump off the last wall and land back on the road.
+
+Upsides: Saves a shroom to use elsewhere. Is possible from the bottom path, so it's viable for the current route.
+
+Issues: Far more difficult than the other paths.
+
+
 
 ---
 ## CONFIRMED, BUT OBSOLETE
