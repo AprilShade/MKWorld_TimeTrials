@@ -41,8 +41,6 @@ Upsides: Saves a shroom to use elsewhere. Is possible from the bottom path, so i
 
 Issues: Far more difficult than the other paths.
 
-
-
 ---
 ## CONFIRMED, BUT OBSOLETE
 

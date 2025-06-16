@@ -50,11 +50,11 @@ Instead of going around the shrine to charge a UMT, cross the temple completely 
 3. In the middle of the shrine, release your MT to redirect momentum and take the turn sharper.
 4. Aim towards the left side of the final pillar.
 5. After crossing the off-road, trick on the rock for an extra boost.
-6. (Maybe) Start and release a CJ on the way up the stairs.
+6. Start and release a Left CJ on the way up the stairs.
 
 ![Shrine Skip](/media/CCF/shrine_skip.gif)
 
-Upsides: Gets +1 coin and a trick boost at the end.
+Upsides: Gets a trick boost at the end.
 
 Issues: Only works in combination with Tarzan Skip, as it saves less time than the normal shroom spot.
 
