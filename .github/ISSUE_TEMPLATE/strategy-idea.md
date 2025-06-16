@@ -1,14 +1,14 @@
 ---
 name: Strategy Idea
-about: Submit a strategy idea for a stage
+about: Submit a strategy idea for a course
 title: "[STRAT IDEA] "
 labels: STRAT IDEA
 assignees: ''
 
 ---
 
-**What stage is your idea for?**
-Add all stages that your idea applies to. If you don't know yet, write "N/A".
+**What course is your idea for?**
+Add all course that your idea applies to. If you don't know yet, write "N/A".
 
 **Who found the strategy?**
 If there are multiple people, add all of them. (Also add them if they found a different approach, but didn’t contribute to the main strategy.)
