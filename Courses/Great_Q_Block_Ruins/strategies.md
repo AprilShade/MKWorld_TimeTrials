@@ -4,6 +4,18 @@
 
 ---
 ## CONFIRMED AND UTILISED
+### Zaquas Wall (by Zaqua)
+After the standart route, instead of drifting along the turn as usual, jump down and ride the inner wall of the track to skip the turn.
+
+0. Perform the normal shroom shortcut.
+1. Do the left tick early to land back on the road and get a good alignment.
+2. Trick off the ramp, then jump down at a very specific spot and angle.
+3. Ride the inner wall of the turn, then jump out at the very end.
+
+Issues: This strat is REALLY HARD. Probably too hard for a 3/3. There's also no known footage of getting the rightmost coin on the ramp after the skip, so we will have to account for that.
+
+
+
 ### Ending Ring Cut
 Instead of following the main route, trick off of the rings and do a wall jump.
 
@@ -26,15 +38,6 @@ Issues: You need the perfect amount of airtime to land early, slow down, and sto
 
 ---
 ## CONFIRMED, NOT YET UTILISED
-### Zaquas Wall (by Zaqua)
-After the standart route, instead of drifting along the turn as usual, jump down and ride the inner wall of the track to skip the turn.
-
-0. Perform the normal shroom shortcut.
-1. Do the left tick early to land back on the road and get a good alignment.
-2. Trick off the ramp, then jump down at a very specific spot and angle.
-3. Ride the inner wall of the turn, then jump out at the very end.
-
-Issues: This strat is REALLY HARD. Probably too hard for a 3/3. There's also no known footage of getting the rightmost coin on the ramp after the skip, so we will have to account for that.
 
 ---
 ## CONFIRMED, BUT OBSOLETE
