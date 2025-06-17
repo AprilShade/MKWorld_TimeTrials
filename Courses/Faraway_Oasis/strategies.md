@@ -4,15 +4,6 @@
 
 ---
 ## CONFIRMED AND UTILISED
-
----
-## CONFIRMED, NOT YET UTILISED
-
----
-## CONFIRMED, BUT OBSOLETE
-
----
-## NOT YET CONFIRMED
 ### Super Splash (by Prince_Porky)
 Use a big jump in order to pass over the grass patch completely.
 
@@ -24,7 +15,16 @@ Use a big jump in order to pass over the grass patch completely.
 
 Upsides: Skips needing to go onto the wood path. Cuts the turn very tightly.
 
-Issues: Hard to pull off. Right Jump timing is precise and depends on your speed a lot. Not many options for realignment after landing.
+Issues: Hard to pull off. Right Jump timing is precise and depends on your speed a lot. Not many options for realignment after landing. 
+
+---
+## CONFIRMED, NOT YET UTILISED
+
+---
+## CONFIRMED, BUT OBSOLETE
+
+---
+## NOT YET CONFIRMED
 
 ---
 ## (CURRENTLY) IMPOSSIBLE
