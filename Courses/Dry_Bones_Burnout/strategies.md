@@ -17,7 +17,7 @@ Skip the ending lava pool shroomless with the use of strategic Wall Riding and J
 2. Wall Ride and drive off of it without jumping.
 3. Spam left air tricks to realign.
 
-Advantage: Saves a shroom to use elsewhere.
+Upsides: Saves a shroom to use elsewhere.
 
 Issues: Not grinding on the green rail is tricky, and getting an actually faster attempt is quite difficult.
 
@@ -26,7 +26,7 @@ Issues: Not grinding on the green rail is tricky, and getting an actually faster
 1. Attatch to the green rail, then instantly left jump. 
 2. Spam left air tricks and performa Wall Jump upon hitting the wall.
 
-Advantages: Saves a shroom to use elsewhere.
+Upsides: Saves a shroom to use elsewhere.
 
 Issues: Harder than the other path, but faster.
 
