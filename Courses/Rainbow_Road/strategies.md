@@ -7,6 +7,10 @@
 
 ---
 ## CONFIRMED, NOT YET UTILISED
+### Wall Ride Strats
+A collection of places where you can fall down and Wall Ride to take a turn tighter. Mostly done on spots with railings. 
+
+**Spot 1**
 
 ---
 ## CONFIRMED, BUT OBSOLETE
