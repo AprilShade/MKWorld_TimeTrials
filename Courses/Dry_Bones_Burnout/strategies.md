@@ -4,6 +4,31 @@
 
 ---
 ## CONFIRMED AND UTILISED
+### Bone Road Cut (by Aprilshade & Zepline) 
+On the bone road near the end, Drift/CJ off to the left from the second-to-last brown ramp. 
+
+**Path 1:** (by Zepline)
+
+1. Drift left off the ramp and trick, then land in the off-road. 
+2. Take the regular lower road to take the upcoming shortcut. 
+
+Upsides: Faster than normal routes. 
+
+Issues: None.
+
+**Path 2:** (by Aprilshade)
+
+0. Drift wide to the right to get a better angle. 
+1. Start a Left CJ and release it off the ramp, then land in the off-road. Land as far out of it as possible to avoid the rock. 
+2. Trick onto the right wall and Wall Jump to take the upcoming shortcut. 
+
+Upsides: Seems faster than the first path. 
+
+Issues: You might not be able to take the lower road due to alignment, though this doesn't seem to matter much. 
+
+Issues (Both): Since both strats take the bottom path, Ending NISCs 1 and 2 are impossible. 
+
+Notes: Zepline was the first to use Path 1 in a WR, while Andremar did it for Path 2. 
 
 ---
 ## CONFIRMED, NOT YET UTILISED
