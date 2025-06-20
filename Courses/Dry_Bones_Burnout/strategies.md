@@ -26,7 +26,7 @@ Upsides: Seems faster than the first path.
 
 Issues: You might not be able to take the lower road due to alignment, though this doesn't seem to matter much. 
 
-Issues (Both): Since both strats take the bottom path, Ending NISCs 1 and 2 are impossible. 
+Issues (Both): Since both strats take the bottom path, Ending NISC 2 is impossible. 
 
 Notes: Zepline was the first to use Path 1 in a WR, while Andremar did it for Path 2. 
 
