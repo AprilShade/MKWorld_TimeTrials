@@ -49,7 +49,7 @@ Issues: Not grinding on the green rail is tricky, and getting an actually faster
 **Path 2:** (by AprilShade)
 
 1. Attatch to the green rail, then instantly left jump. 
-2. Spam left air tricks and performa Wall Jump upon hitting the wall.
+2. Spam left air tricks and perform a Wall Jump upon hitting the wall.
 
 Upsides: Saves a shroom to use elsewhere.
 
