@@ -61,7 +61,7 @@ Issues: Only works in combination with Tarzan Skip or the Water Path NISC, as it
 ---
 ## CONFIRMED, NOT YET UTILISED
 ### Tarzan Skip (by Zaqua)
-Instead of going into the slow water, wall jump, then jump along trees to preserve your speed. Also saves a shroom for Temple Skip.
+Instead of going into the slow water, wall jump, then jump along trees to preserve your speed. Also saves a shroom for Shrine Skip.
 
 0. Wall Ride on the waterfall to gain speed, then approach the trees on the left. 
 1. Perform a Wall Jump off the left of the ravine, then navigate to the hanging tree branch.
