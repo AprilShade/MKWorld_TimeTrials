@@ -7,7 +7,7 @@
 
 ---
 ## CONFIRMED, NOT YET UTILISED
-### Lap 2 Alley NISC
+### Lap 2 Alley NISC (by AprilShade, Pluto, Prince Porky & Zaqua)
 Jump over the boxes blocking the box cut in lap 2 to save a shroom.
 
 1. CJ onto the wall before lap 2's alley boxes.
