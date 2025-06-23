@@ -19,9 +19,32 @@ Instead of using a shroom to cross the first turn, jump between poles and trees 
 5. Maneuver back onto the main road with Right Air Tricks, and aim to land facing as far right as possible. 
 
 
-Upsides: Saves a shroom for later usage. 
+Upsides: Saves a shroom for use elsewhere. 
 
 Issues: Hasn't been proven in TT yet. Lap 2/3 exclusive. 
+
+**Path 2:**
+
+1. CJ onto the rail before the bump. 
+2. Front Jump off the rail when going up the bump, then maneuver towards the black poles on the right. 
+3. Pole Jump between the poles. Make sure to hit the last pole for maximum distance, and don't hit too many as that will send you too high. 
+4. Maneuver towards the white pole of the sign with Air Tricks. Hit both white poles and maneuver towards the tree.
+5. Pole Jump off of the tree and maneuver back onto the road with Right Air Tricks.
+
+Upsides: Saves a shroom for use elsewhere.
+
+Issues: Lap 2/3 exclusive. Not fully confirmed yet.
+
+**Path 3:**
+
+1. Right CJ onto the rail and jump for speed.
+2. Jump onto the second early, then Right Jump off.
+3. Pole Jump off the white pole and maneuver towards the left of the tree.
+4. Pole Jump off the tree and maneuver back onto the track.
+
+Upsides: Saves a shroom for use elsewhere. Possible on all laps.
+
+Issues: Bad angle after landing. The most inconsistent path of the 3.
 
 Issues (all): Pretty hard to do. Also, Lakitu swapped out his fishing rod for an SMG on this map and will shoot you dead if you move a bit too far right. 
 
@@ -36,8 +59,7 @@ Instead of drifting around the turn, ride the white wall from the inside to skip
 4. Wall Jump twice in quick succession to stay on the wall and keep your speed. 
 5. Reach the rail at the top, then Normal Jump off of it at the end. 
 
-Upsides: Skips the drift around the spiral. Also chains into Pipe Jump Skip. 
-
+Upsides: Skips the drift around the spiral. Also chains into Pipe Jump Skip.
 Issues: INCREDIBLY hard. So far, the only one to ever pull it off is Lokilla herself. Many things can go wrong; Failed drifts, falling off the segment, a bad angle, lakitu, weird wall physics towards the end... You get the point. 
 
 
