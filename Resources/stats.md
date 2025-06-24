@@ -1,0 +1,28 @@
+# Stats List
+---
+| **Vehicle**                                          |   | _Road Spd._ | _Terr. Spd._ | _Water Spd._ | _Unkn. Spd._ |   | _Accel/MT_ | _Weight_ |   | _Road Hand._ | _Terr. Hand._ | _Water Hand._ | _Unkn. Hand._ |
+|------------------------------------------------------|---|-------------|--------------|--------------|--------------|---|------------|----------|---|--------------|---------------|---------------|---------------|
+| Rally Bike, Hyper Pipe                               |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Mach Rocket, R.O.B. H.O.G.                           |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Standart Bike, Cute Scoot, Tune Thumper              |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Bittybuggy                                           |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Baby Blooper                                         |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Pipe Frame                                           |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Loco Moto                                            |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Roadster Royale, Hot Rod, Bumble V, B-Dasher         |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Zoom Buggy, Rally Cart                               |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Dolphin Dasher, Fin Twin                             |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Standart Kart, Plushbuggy                            |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Blastronaut III                                      |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Dread Sled                                           |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Billdozer, Big Horn                                  |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Rallygator                                           |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| W-Twin Chopper                                       |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Bowser Bruiser, Lil Dumpy, Chargin Truck, Tiny Titan |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Cloud 9, Carpet Flyer, Ribbit Revster                |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Funky Dorrie                                         |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Reel Racer                                           |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Junkyard Hog                                         |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Mecha Trike                                          |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Lobster Roller                                       |   |             |              |              |              |   |            |          |   |              |               |               |               |
+| Stellar Sled                                         |   |             |              |              |              |   |            |          |   |              |               |               |               |
