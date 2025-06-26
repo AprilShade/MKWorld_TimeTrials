@@ -30,6 +30,46 @@ Note: The fastest way hasn't been found yet, more testing is needed.
 
 ---
 ## NOT YET CONFIRMED
+### Ship Rail Shortcut
+Instead of going into the left part of the ship, go into the right part and use a CJ to ride the rail on top of the wall. 
+
+0. Perform the Rail Shortcut, but instead maneuver towards the right entrance. 
+1. Start a left drift (above the sand patch) and release MT into the entrance. Aim for the left of the entrance. 
+
+**Path 1:**
+
+2. Start a CJ and hit the left wall to realign yourself. 
+3. Release a Front CJ on the right of the ramp, then Wall Ride upwards. 
+4. Grind on the rail above the wall. 
+
+Upsides: Easier method. 
+
+Issues: Hitting the wall might still not give a good enough angle for the strat. 
+
+**Path 2:**
+
+2. Start a Right Drift to slide across the floor to the left and align yourself to the right.
+3. Release the Drift (Drift, not MT) and instantly start a CJ. 
+4. Release a Front CJ on the right of the ramp, then Wall Ride upwards. 
+5. Grind on the rail above the wall. 
+
+Upsides: Will probably give a better angle. 
+
+Issues: Harder to pull off. 
+
+**Path 3:**
+
+2. Start a Right Drift to slide across the floor to the left and align yourself to the right. Make sure to not slide too close. 
+3. Release the Drift (Drift, not MT) and instantly start a CJ. 
+4. Hit the wall to cancel all leftwards speed. 
+5. Release a Front CJ on the right of the ramp, then Wall Ride upwards. 
+6. Grind on the rail above the wall. 
+
+Upsides: Combines both paths. Gives a better angle while also still having breathing room for the drift, since you don't need to avoid the left wall. 
+
+Issues: Probably the hardest of them all. Idk tho. 
+
+Note: Currently, it is unknown which of the paths is more consistent/likely to work. You can also perform path 1 without hitting the wall, but it's far too unreliable. 
 
 ---
 ## (CURRENTLY) IMPOSSIBLE
