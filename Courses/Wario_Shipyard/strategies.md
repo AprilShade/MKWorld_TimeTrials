@@ -4,6 +4,21 @@
 
 ---
 ## CONFIRMED AND UTILISED
+### Beginning Tree Jump (by Melontoad (shroom) and RescaP (NISC))
+At the start of Wario Shipyard, charge jump off of the boost ramp to get enough height to trick of the right tree.
+
+1. Charge jump on the first boost ramp and aim for the right-side tree.
+2. Trick off the tree and either go around the hill for shroomless or land on top with a shroom.
+3. If done with a shroom, you can either shroom off toward the ramp below, or shroom onto the railing to the right.
+
+[Shroomless](/media/rWSh/beginningTreeJump.gif)
+
+Upsides: Shroomless saves a shroom. Shroom methods appear faster than current.
+
+Issues: None.
+
+
+
 ### Rail Shortcut (by AprilShade, Pluto, Prince Porky and Zaqua)
 After the tunnel near the start, instead of going right across the water, take the rail on the left rock.
 
@@ -27,6 +42,47 @@ Note: The fastest way hasn't been found yet, more testing is needed.
 
 ---
 ## CONFIRMED, BUT OBSOLETE
+### Coin Path Route (by AprilShade)
+After the three coins on the stone after the tunnel, trick onto the right wall and land on the platform. From there, there are a variety of options.
+
+1. After the three coins, trick onto the right wall.
+2. Land on the platform and trick off of it.
+3. From there, you can do one of the following:
+    a. Ride the left rail, and bounce off one of the wood poles after if desired. This option seems to be the fasted.
+    b. Ride the right rail.
+    c. Wall ride the ship.
+    d. Land in the water.
+
+Upsides: Allows you to stay away from enemies in VS race.
+
+Issues: Slower by about 0.4 per lap.
+
+
+
+### Right-side Parkour (by AprilShade)
+After the tunnel, Wall Jump and parkour to reach the high-up railing.
+
+1. After the tunnel, ride the wall on the right side.
+2. Wall Jump onto the outcropped wall and Wall Jump again.
+3. Bounce off the nearby tree.
+4. If you have a good alignment, you'll be able to air trick onto (or over) the railing on the right.
+
+[Parkour](https://www.youtube.com/watch?v=G9555muH02s)
+
+Upsides: None.
+
+Issues: It's difficult, inconsistent, and slow.
+You often fail to get a wall jump on step two, leaving you in a state that can't drift, trick, or wall ride.
+You can easily miss the tree in step three.
+You can easily not get close enough to land on the rail in step four.
+
+Notes: If you don't perform it perfectly, you can sometimes convert it into the other wall-ride strategy in the same area.
+This has not been confirmed with the WR combo.
+
+When using the demonstrated combo, there are some features that can be used somewhat as indicators:
+
+1. The patch of grass for the wall ride in step one
+2. The higher tree for the wall jump that leads into step two
 
 ---
 ## NOT YET CONFIRMED
