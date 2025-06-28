@@ -11,7 +11,7 @@ At the start of Wario Shipyard, charge jump off of the boost ramp to get enough 
 2. Trick off the tree and either go around the hill for shroomless or land on top with a shroom.
 3. If done with a shroom, you can either shroom off toward the ramp below, or shroom onto the railing to the right.
 
-[Shroomless](/media/rWSh/beginningTreeJump.gif)
+![Shroomless](/media/rWSh/beginningTreeJump.gif)
 
 Upsides: Shroomless saves a shroom. Shroom methods appear faster than current.
 
