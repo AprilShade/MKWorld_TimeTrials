@@ -67,7 +67,7 @@ After the tunnel, Wall Jump and parkour to reach the high-up railing.
 3. Bounce off the nearby tree.
 4. If you have a good alignment, you'll be able to air trick onto (or over) the railing on the right.
 
-![Parkour](https://www.youtube.com/watch?v=G9555muH02s)
+[Parkour](https://www.youtube.com/watch?v=G9555muH02s)
 
 Upsides: None.
 
