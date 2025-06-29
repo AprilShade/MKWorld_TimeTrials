@@ -4,6 +4,18 @@
 
 ---
 ## CONFIRMED AND UTILISED
+### Beginning Turnskip (by Xurai) 
+Instead of taking the pole shortcut and driving around the turn, Use a CJ to skip the turn entirely. 
+
+1. Before the second coin, start a left drift and release MT. 
+2. Start a CJ and release it onto the mesh wall. 
+3. Wall Ride all the way up and Wall Jump early. 
+4. Spam Left Air Tricks to realign. 
+5. (optional) When landing, spam hops to gain speed on the off-road. Don't know if it's faster tho. 
+
+Upsides: saves a lot of time going around the turn. 
+
+Issues: Lands you in offroad, so movement after is hard. Currently has only ever been done on a high handling and low speed combo, which loses time in the long run. 
 
 ---
 ## CONFIRMED, NOT YET UTILISED
