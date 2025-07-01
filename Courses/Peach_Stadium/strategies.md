@@ -53,9 +53,9 @@ Issues (all): Pretty hard to do. Also, Lakitu swapped out his fishing rod for an
 ### Spiral Skip (by Lokilla)
 Instead of drifting around the turn, ride the white wall from the inside to skip it entirely. 
 
-0. Release a Right MT to set up the trick. 
-1. Start a Left MT and release it on the corner of the boost panel. Trick off of the corner. 
-2. Land on the second-to-last segment of the fence and trick right after falling off again. The previous trick boost should carry you to the wall so you can ride it. 
+0. Do 2 edge tricks to set up the strat.
+1. Start a Left Drift and drive over the corner of the boost panel. Trick off of the corner. 
+2. Land on the second-to-last segment of the fence and trick again. The previous trick boost should carry you to the wall so you can ride it. 
 4. Wall Jump twice in quick succession to stay on the wall and keep your speed. 
 5. Reach the rail at the top, then Normal Jump off of it at the end. 
 
