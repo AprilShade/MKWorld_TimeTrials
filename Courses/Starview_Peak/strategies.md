@@ -16,7 +16,7 @@
 
 ![Kings Corner](/media/SP/kings_corner.gif)
 
-![Snow Skip](/media/SP/snow_skip.gif)
+![Snow Skip](/media/SP/snow_skip_success.gif)
 
 ---
 ## (CURRENTLY) IMPOSSIBLE
