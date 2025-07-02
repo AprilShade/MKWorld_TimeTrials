@@ -17,4 +17,4 @@ Briefly state the general part/s that need updating. Missing or incorrect inform
 List the updated or corrected information here. If the part that needs to be updated is a video, please include a video or video link. **This is required.**
 
 **Additional notes (optional)**
-Add any other notes about your strategy idea here.
+Add any other notes about your strategy update here.
