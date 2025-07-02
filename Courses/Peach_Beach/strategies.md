@@ -22,7 +22,7 @@ Issues: Misses a coin compared to world record. Misses an item set in races.
 
 **First found:**
 
-Found together by AprilShade, Pluto, Prince Porky & Zaqua (approx. 2025-06-16-1135)
+Found together by AprilShade, Pluto, Prince Porky & Zaqua (approx. 2025-06-16-2335)
 
 Box skip proven by Prince Porky; improved exit proven by AprilShade
 
@@ -48,9 +48,9 @@ Issues: None.
 
 **First found:**
 
-Path 1 by Ed (2025-06-21-0935)
+Path 1 by Ed (2025-06-21-2135)
 
-Path 2 by <ruby> ぼちやま <rp>(</rp> <rt>bochiyama</rt><rp>)</rp></ruby> (2025-06-27-0732) 
+Path 2 by <ruby> ぼちやま <rp>(</rp> <rt>bochiyama</rt><rp>)</rp></ruby> (approx. 2025-06-27-1932) 
 
 ---
 ## CONFIRMED, BUT OBSOLETE
