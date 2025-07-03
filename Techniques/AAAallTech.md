@@ -9,7 +9,8 @@ Hold R/ZR to turn sharper. Charges a mini-turbo (MT), which has 3 levels (normal
 ### Charge Jump (CJ)
 Hold R/ZR without inputting a direction. Can be aimed to the side, which will get less air, or forwards, which will make you jump higher.
 
-###Drifting Charge Jump
+### Drifting Charge Jump
+By drifting off a ledge and quickly releasing it to start a charge jump instead, you will be able to slide and turn slightly better upon landing than a regular charge jump.
 
 ### Tricking
 Press R/ZR when going off a platform (or in the air) to trick and get a boost when landing. Tricks done in the air are called Air Tricks. Tricks can be normal, left, right, forwards, and backwards tricks (normal, forwards and backwards are currently the same.) 
@@ -36,7 +37,7 @@ Tricking while wall riding will propel you away from the wall, and give a mini-t
 Drive/CJ onto a rail to grind it. The rail acts like a magnet, letting you turn very sharp. A jump can be performed to the side or forwards, which acts like a CJ with a longer boost.
 
 ### Pole Jump
-Trick/CJ into a pole to jump off it. This gives you an upward boost while retaining your speed. A lot of things are considered poles, like pipes or pillars.
+Trick/CJ into a pole to jump off it. This gives you an upward boost while retaining your speed. A lot of things are considered poles, like pipes or pillars. Pole jumps can be done by gliding, but do not give a speed boost.
 
 ### Super Pole Jump
 Name pending. By Pole Jumping at the base of a pole, you can get far more height than usual, though you lose a lot of horizontal speed.
